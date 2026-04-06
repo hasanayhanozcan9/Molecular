@@ -14,3 +14,7 @@ Modülasyon: İkili veriler (0 ve 1), belirli miktardaki molekül salınımları
 Yayılım: Moleküller, bio-ortamda Brown hareketi ile rastgele dağılır.
 Kritik Denklem: D = \frac{k \cdot T}{6 \pi \eta r}
 Demodülasyon: Alıcı düğüm, ortamdaki konsantrasyon değişimini örnekleyerek mesajı deşifre eder.
+
+
+​"This protocol is designed for the future of Internet of Bio-Nano Things (IoBNT). For licensing and commercial inquiries, please contact Pakize Diken."
+(Bu protokol, Biyo-Nano Nesnelerin İnterneti (IoBNT) geleceği için tasarlanmıştır. Lisanslama ve ticari talepler için lütfen Pakize Diken ile iletişime geçin.) email: hasanayhanozcan9@gmail.com
