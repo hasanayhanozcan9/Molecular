@@ -1,3 +1,9 @@
+🛡️ Blockchain Verification
+​The authenticity of this protocol is secured using a cryptographic timestamp.
+​File: Molecular-main.zip
+​SHA256 Hash: 74857996a8cfed6cffc9a18766e7387b5f2e656b3531caba94f...
+​Proof Type: OpenTimestamps (Bitcoin Blockchain)
+
 Pakize Diken Molecular Internet Protocol (PD-MIP)
 PD-MIP is a comprehensive Python-based simulation framework for Molecular Communication (MoCo). It models the end-to-end process of data transmission within biological or fluid environments—from physical diffusion laws to application-level data integrity.
 Designed by Pakize Diken, this protocol serves as a master kernel for controlling molecular information exchange at the nanoscale.
