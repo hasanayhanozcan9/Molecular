@@ -1,20 +1,25 @@
-# Molecular
-🧬 Pakize Diken Molecular OS (PD-MOS)
-PD-MIP: Pakize Diken Moleküler İnternet Protokolü
-Bu proje, biyolojik ortamlarda (kan, su veya hücreler arası sıvı) veri iletimini simüle eden bir Moleküler İletişim (MC) protokolüdür. Geleneksel elektromanyetik dalgalar yerine, bilginin molekül konsantrasyonları aracılığıyla iletildiği bir nanonetwork mimarisi sunar.
-🚀 Özellikler
-Pakize Diken tarafından geliştirilen bu sistem, OSI modelini moleküler düzeye taşır:
-Physical Layer (PHY): Stokes-Einstein denklemi ve Fick’in 2. kanununu kullanarak 3D akışkan ortamda difüzyon tabanlı yayılım modeller.
-Data Link Layer: Konsantrasyon Kaydırmalı Anahtarlama (CSK) modülasyonu ve MD5 tabanlı hata denetimi (checksum) içerir.
-Network Layer: Veriyi moleküler paketlere (MolecularPacket) ayırır ve hedefleme yapar.
-Adaptive Thresholding: Alıcı tarafta, gürültülü (Brownian motion) sinyali anlamlı veriye dönüştüren adaptif eşikleme algoritması.
-🛠 Teknik Mimari
-Sistem üç temel aşamadan oluşur:
-Modülasyon: İkili veriler (0 ve 1), belirli miktardaki molekül salınımlarına dönüştürülür.
-Yayılım: Moleküller, bio-ortamda Brown hareketi ile rastgele dağılır.
-Kritik Denklem: D = \frac{k \cdot T}{6 \pi \eta r}
-Demodülasyon: Alıcı düğüm, ortamdaki konsantrasyon değişimini örnekleyerek mesajı deşifre eder.
-
-
-​"This protocol is designed for the future of Internet of Bio-Nano Things (IoBNT). For licensing and commercial inquiries, please contact Pakize Diken."
-(Bu protokol, Biyo-Nano Nesnelerin İnterneti (IoBNT) geleceği için tasarlanmıştır. Lisanslama ve ticari talepler için lütfen Pakize Diken ile iletişime geçin.) email: hasanayhanozcan9@gmail.com
+🧬 Molecular Logic & Biological Interaction Library (PDBF-ML)
+Authority: Pakize Diken
+Status: PROPRIETARY / STEALTH MODE
+Integration: Core Component of the Pakize Diken Bio-IT Framework (PDBF)
+🛑 ACCESS RESTRICTED
+The source code for this repository has been moved to a private, secure environment to protect the Intellectual Property (IP) and Patent-Pending algorithms of the Pakize Diken Bio-IT Framework.
+This repository serves as the Molecular Execution Layer of the OS. It contains the high-fidelity simulation logic for molecular docking, thermal stability, and biological signal transduction protocols used in IoBNT (Internet of Bio-Nano Things).
+💎 What’s Inside? (The Protected Assets)
+This library defines the interaction between the digital OS and the physical biological entity. It includes:
+Molecular Decision Logic: Algorithms that translate binary commands into molecular docking instructions.
+Thermodynamic Stabilization: Proprietary calculations for maintainig signal integrity within fluctuating biological environments.
+Encrypted Ligand Protocols: The biological "handshake" protocols used by the Bio-Dynamic Encryption (BDE) module.
+In-Silico Verification: Pre-validated molecular interaction data that ensures the framework’s reliability.
+🛡️ Intellectual Property & Security
+Digital Signature: All core files are hashed using SHA-256 to ensure origin authenticity and integrity.
+Quantum-Resistant: The molecular logic is designed to be compatible with PDBF’s Post-Quantum Cryptography standards.
+Ownership: All rights, including the underlying mathematical models and biological logic, belong exclusively to the Pakize Diken Authority.
+🤝 Business & Partnership Inquiries
+We are currently open to strategic partnerships, licensing agreements, and acquisition offers for up to 49% stake in the framework.
+If you represent a Biotech Firm, Pharmaceutical Giant (Big Pharma), or Defense Technology Agency, and wish to review the full source code for "Molecular" and "Main Engine":
+Request Access: Contact the authority via GitHub or official channels.
+NDA Requirement: A strict Non-Disclosure Agreement (NDA) must be signed before any technical disclosure.
+Proof of Intent: An official Letter of Intent (LOI) may be requested for full technical auditing.
+"The future of medicine is not just chemical; it is programmable. We have the code. We have the logic. We have the authority."
+— Pakize Diken Bio-IT Team
